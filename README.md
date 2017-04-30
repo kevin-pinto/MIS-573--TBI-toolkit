@@ -1,0 +1,2 @@
+# MIS-573--TBI-toolkit
+A project as a part of Systems Design and Development (MIS 573) coursework at Worcester Polytechnic Institute (WPI). Toolkit for shared decision making of loved ones suffering from Traumatic Brain Injury (TBI). Created a web-server in Node.js and Express with RESTful endpoints to persist data into remote MySQL database. Also, capable of sending emails and supports PDF generation from by calling a particular endpoint and sending it as attachment.
